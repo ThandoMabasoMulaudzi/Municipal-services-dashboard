@@ -18,7 +18,8 @@ This project showcases a simplified Excel dashboard designed to track municipal 
 
 ## 📷 Screenshot
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](Dashboard-overview.png)
+
 
 ## 👤 Author
 
